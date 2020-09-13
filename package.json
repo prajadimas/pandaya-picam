@@ -1,0 +1,21 @@
+{
+  "name": "pandaya-picam",
+  "version": "1.0.0",
+  "description": "Module to Take Pi-Camera Image for Pandaya+ Device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pandaya+",
+    "pi-camera",
+    "camera"
+  ],
+  "author": "prajadimas",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "pi-camera-connect": "^0.3.3",
+    "socket.io-client": "^2.3.0"
+  }
+}
